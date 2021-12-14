@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kpBUzBztp23n4s2jFnGADsfgcMOdKL52m0czO7n+9JCvI9D84abEYskxhZeoPaEmZwit6Z+HV9idjkCl5Sf1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dedy\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dedy\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
